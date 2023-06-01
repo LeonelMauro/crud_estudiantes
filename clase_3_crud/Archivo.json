@@ -1,0 +1,16 @@
+[
+    {
+        "apellido": "Carceeri",
+        "nombre": "Leonel",
+        "correo": "Arg@Gmail.Com",
+        "pais": "Arg",
+        "sexo": "M"
+    },
+    {
+        "apellido": "Avila",
+        "nombre": "Juan",
+        "correo": "Jua@Gmial.Com",
+        "pais": "Arg",
+        "sexo": "M"
+    }
+]
